@@ -1496,3 +1496,15 @@ svg {
   height: 53.52px;
   width: 149px;
 }
+
+.equipe {
+  height: 100vh;
+  padding-bottom: 322px;
+}
+
+.rodape {
+  position: relative !important;
+  bottom: 0 !important;
+  width: 100%;
+  height: 358px;
+}
