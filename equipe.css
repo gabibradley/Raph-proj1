@@ -307,11 +307,14 @@
   width: 182px;
   border-radius:40.1105px 40.1105px 53.9949px 53.9949px;
 }
+//footer 
 
 footer {
   height: 358px;
   margin-bottom: 0px;
-  background-color: #d9d9d9;
+  background-color:red;
+  position:fixed !important;
+  bottom:0 !important;
 }
 
 .left-footer img,
